@@ -42,10 +42,10 @@ http://img144.imageshack.us/img144/8818/proposaltimelinecopyxi0.jpg
   * Access to Big Blue Button database structure
   * Familiarization with Adobe Flex technology
   * Software required:
-    # Adobe Flex Builder 3
-    # Java Development Kit
-    # Ant
-    # ActiveMQ
-    # Tomcat
-    # SWF Tools and PDF Toolkit
-    # (Sub)Version Control Client
+    * Adobe Flex Builder 3
+    * Java Development Kit
+    * Ant
+    * ActiveMQ
+    * Tomcat
+    * SWF Tools and PDF Toolkit
+    * (Sub)Version Control Client
