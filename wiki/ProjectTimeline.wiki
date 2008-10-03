@@ -1,0 +1,18 @@
+#summary Timeline of the objectives for the project's 2-week iterations (scrums)
+
+===Weeks 1 & 2 (Sep 22nd - Oct 6th)===
+
+  * Install BigBlueButton client and the associated software:
+    * BigBlueButton server
+    * ActiveMQ server
+    * Asterisk server
+    * Tomcat server
+    * Ant
+    * Java Development Kit
+    * SWF Tools and PDF Toolkit
+    * Subversion client
+  * Setup a virtual Linux environment on a PC where the above-mentioned servers would be running
+  * Install Adobe Flex Builder
+  * Add project proposal to the Wiki pages
+  * Read up on _user stories_
+  * Research into existing calendar data exchange standards
