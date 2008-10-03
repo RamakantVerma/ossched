@@ -1,3 +1,5 @@
+#summary Proposal for the project submitted to the Department Of Systems And Computer Engineering at Carleton University as part of a 4th year undergraduate course
+
 === Abstract ===
 
 The following document is a proposal for the fourth year project “Calendar Mashups for Open Source Web Conferencing” under the Department Of Systems And Computer Engineering at Carleton University. The project is supervised by Professors Steven Muegge and Michael Weiss and is to be completed by Bryan Langille and Mykhaylo Ryechkin in the 2008-2009 academic year.  The project is based on an open-source web conferencing platform called Big Blue Button. 
@@ -33,15 +35,17 @@ Big Blue Button is an open-source project and presently has an existing communit
 
 As mentioned above, we will be using an Agile software development approach, and as a result the development will be done in two-week iterations. The timeline on the following page outlines our projected development path. It shows project-independent milestones (as set by the course co-ordinator) as well as our biweekly development schedule. Some of the forecasted development stages are subject to change as the project progresses and the stakeholders’ requirements are assessed in more detail.
 
+http://img144.imageshack.us/img144/8818/proposaltimelinecopyxi0.jpg
+
 === Dependencies ===
 
   * Access to Big Blue Button database structure
   * Familiarization with Adobe Flex technology
   * Software required:
-  # Adobe Flex Builder 3
-  # Java Development Kit
-  # Ant
-  # ActiveMQ
-  # Tomcat
-  # SWF Tools and PDF Toolkit
-  # (Sub)Version Control Client
+    # Adobe Flex Builder 3
+    # Java Development Kit
+    # Ant
+    # ActiveMQ
+    # Tomcat
+    # SWF Tools and PDF Toolkit
+    # (Sub)Version Control Client
