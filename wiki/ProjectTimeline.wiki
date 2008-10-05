@@ -14,5 +14,4 @@
   * Setup a virtual Linux environment on a PC where the above-mentioned servers would be running
   * Install Adobe Flex Builder
   * Add project proposal to the Wiki pages
-  * Read up on _user stories_
-  * Research into existing calendar data exchange standards
+  * Familiarize ourselves with the concept of _user stories_
