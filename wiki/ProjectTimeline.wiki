@@ -1,5 +1,12 @@
 #summary Timeline of the objectives for the project's 2-week iterations (scrums)
 
+===Weeks 3 & 4 (Oct 7th - Oct 20th)===
+
+  * Research information on Google Data API (GData) and how this data is handled in Google Calendar
+  * Research calendar standards and commonalities
+  * Post any relevant findings on the project's Wiki
+  * Create user stories
+
 ===Weeks 1 & 2 (Sep 22nd - Oct 6th)===
 
   * Install BigBlueButton client and the associated software:
@@ -14,4 +21,4 @@
   * Setup a virtual Linux environment on a PC where the above-mentioned servers would be running
   * Install Adobe Flex Builder
   * Add project proposal to the Wiki pages
-  * Familiarize ourselves with the concept of _user stories_
+  * Read information on _user stories_
