@@ -44,8 +44,7 @@ In the 3rd line, we can see that the category scheme for this entry is of the Go
 }}}
 
 The next line is the `<title>` field which indicates the contact's name. The field is ended using the `</title>` tag.
-Another field that we can see is the e-mail field (8th and 9th lines). 
-
+Another field that we can see is the e-mail field (8th line):
 {{{
 <gd:email rel='http://schemas.google.com/g/2005#work' primary='true' address='liz@gmail.com'/>
 }}}
