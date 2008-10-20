@@ -1,6 +1,6 @@
-#summary This page describes the entry fields for the creation of a new contact using the GData protocol and XML
+#summary Describes the fields/content for the creation of a new contact using the GData protocol and XML
 
-The following is an XML code fragment for the creation of a contact “kind”. The code contains several different entries which are specific to different details about this contact.
+The following is an XML code fragment, which will be used as an example for the purposes of explaining the parameters and different parameter options for the creation of a Contact “kind”. The code contains several different parameters which are specific to different details about this contact.
 
 {{{
 <entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005'>
@@ -37,7 +37,7 @@ The following is an XML code fragment for the creation of a contact “kind”. 
 </entry>
 }}}
 
-In the 2nd line, we can see that the category scheme for this entry is of the Google “kinds” and the next line indicates that this entry is a Contact kind:
+In the 2nd line, we can see that the category scheme for this entry is of the GData “kind” and the next line (`term=`) indicates that this entry is a kind is of type Contact:
 
 {{{
 <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
