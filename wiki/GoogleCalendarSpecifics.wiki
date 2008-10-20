@@ -16,9 +16,9 @@ Some common things that you might want to do with the calendar:
     * Uses the HTTP DELETE command
 
 All of these methods are used in conjunction with an XML format that would have all the necessary entities for the purposes of completing the request.
- 
+
 Calendars types in Google Calendar:
-  * _Primary calendar:_ Created at time user signs up for Google calendar
+  * _Primary Calendar:_ Created at time user signs up for Google calendar
   * _Secondary Calendar:_ Additional calendars a user makes
   * _Imported Calendar:_ calendars a user subscribes to
 
