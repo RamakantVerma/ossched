@@ -1,7 +1,6 @@
 #summary Overview of the GData protocol
 
 === Google Data (GData) ===
-
   * Standard protocol for reading/writing data on the web
   * It can use either of 2 web syndication formats 
 
@@ -25,5 +24,4 @@ XML (Extensible Markup Language) and HTML are not the same. They were created wi
 
 To manage the information that is contained for the different APIs, Google has created a collection of elements that are common to some applications. Since there are different applications that manage the same type of information, they have created their own standard for this data type (called kinds). There are 3 “kinds” associated with the GData protocol and they are: the Contact kind, the Event kind, and the Message kind, each with their own data structure in order to organize entry information. Some of the entries are just common ATOM and RSS elements, while the others are part of the Google data namespace.
 
-The Gdata namespace reference (http://code.google.com/apis/gdata/elements.html#gdReference) lists the entries used by the "kinds" types as well as additional data entries for the managing of data. In XML code, the Google data namespace is referred to using the "gd" alias. For example, for contact information such as a telephone number, we would refer to it in XML code with the following structure:  <gd:phoneNumber>
-
+The Gdata namespace reference (http://code.google.com/apis/gdata/elements.html#gdReference) lists the entries used by the "kinds" types as well as additional data entries for the managing of data. In XML code, the Google data namespace is referred to using the "gd" alias. For example, for contact information such as a telephone number, we would refer to it in XML code with the following structure:  _<gd:phoneNumber>_
