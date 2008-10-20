@@ -1,4 +1,4 @@
-#summary Explanation of a number of HTTP status codes.
+#summary Description of common HTTP status codes.
 
 Since we are dealing with HTTP requests, it is a good idea to know what kinds of messages the HTTP protocol would be generating when we interact with it. The following table lists the different status codes that could be generated during the interaction using the HTTP protocol as well as a short description of what each of them means.
 
