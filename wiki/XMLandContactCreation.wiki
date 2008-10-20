@@ -2,7 +2,7 @@
 
 The following is an XML code fragment, which will be used as an example for the purposes of explaining the parameters and different parameter options for the creation of a Contact “kind”. The code contains several different parameters which are specific to different details about this contact.
 
-source for code: http://code.google.com/apis/gdata/elements.html
+_source for code fragment_: http://code.google.com/apis/gdata/elements.html
 
 {{{
 <entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005'>
