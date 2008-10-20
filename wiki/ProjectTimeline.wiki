@@ -1,11 +1,16 @@
 #summary Timeline of the objectives for the project's 2-week iterations (scrums)
 
+===Weeks 5 & 6 (Oct 21st - Nov 3rd)===
+
+  * Get contact information for relevant user demographic
+  * Create a draft of user stories
+  * Start creating a simple Java application to test some of Google Calendar's functionality first-hand 
+
 ===Weeks 3 & 4 (Oct 7th - Oct 20th)===
 
   * Research information on Google Data API (GData) and how this data is handled in Google Calendar
   * Research calendar standards and commonalities
   * Post any relevant findings on the project's Wiki
-  * Create user stories
 
 ===Weeks 1 & 2 (Sep 22nd - Oct 6th)===
 
