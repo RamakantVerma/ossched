@@ -37,14 +37,14 @@ The following is an XML code fragment for the creation of a contact “kind”. 
 </entry>
 }}}
 
-In the 3rd line, we can see that the category scheme for this entry is of the Google “kinds” and the next line indicates that this entry is a Contact kind:
+In the 2nd line, we can see that the category scheme for this entry is of the Google “kinds” and the next line indicates that this entry is a Contact kind:
 
 {{{
 <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
 }}}
 
 The next line is the `<title>` field which indicates the contact's name. The field is ended using the `</title>` tag.
-Another field that we can see is the e-mail field (8th line):
+Another field that we can see is the e-mail field (6th line):
 {{{
 <gd:email rel='http://schemas.google.com/g/2005#work' primary='true' address='liz@gmail.com'/>
 }}}
