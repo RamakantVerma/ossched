@@ -1,0 +1,8 @@
+#summary Useful / Important links for reference with respect to Google Calendar and the GData API.
+
+  * [http://code.google.com/apis/gdata/basics.html Google Data APIs Protocol Basics]
+  * [http://code.google.com/apis/gdata/reference.html Google Data APIs Protocol Reference]
+  * [http://code.google.com/apis/gdata/client-java.html Using the Java Client Library - Google Data APIs - Google Code]
+  * [http://code.google.com/apis/gdata/elements.html Common Elements: "Kinds" - Google Data APIs]
+  * [http://code.google.com/apis/calendar/developers_guide_protocol.html API Developer's Guide - Google Calendar]
+  * [http://code.google.com/apis/calendar/reference.html API Reference Guide - Google Calendar]
