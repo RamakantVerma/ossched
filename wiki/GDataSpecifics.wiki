@@ -13,7 +13,7 @@ There are 2 primary forms of web syndication - Atom & RSS (both XML-based):
   * Atom - Most recent, more features
     * Provides the Atom Publishing Protocol (HTTP protocol for editing/publishing web resources). The APP allows the use of HTTP commands (GET, POST etc...) and is returned information in the syndication format that is being used.
 
-GData uses Atom 1.0 and RSS 2.0 as well as the Atom Publishing Protocol (APP)
+GData uses Atom 1.0 and RSS 2.0 as well as the Atom Publishing Protocol (APP).
 Atom provides mechanism extensions to extend the functionality of the protocol according to developer needs. GData uses these extensions to allow queries.
 
 *XML and HTML:*
