@@ -1,5 +1,11 @@
 #summary Timeline of the objectives for the project's 2-week iterations (scrums)
 
+===Weeks 7 & 8 (Nov 4th - Nov 17th)===
+
+  * Setup MySQL Server and Grails
+  * Get the existing Volunteer Ottawa scheduler application up and running
+  * Modify the VO application to interact with Google Calendar using feeds instead of interacting with MySQL database
+
 ===Weeks 5 & 6 (Oct 21st - Nov 3rd)===
 
   * Get contact information for relevant user demographic
