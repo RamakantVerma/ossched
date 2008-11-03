@@ -33,3 +33,19 @@
 
 *Description:* An email is sent out to the creator of an event when that event's details are edited. The notification email will contain all the details pertaining to the event.
 ----
+*Title:* _Delete an existing event_
+
+*AccTest:*
+
+*Priority:*
+
+*Description:* A user cancels a scheduled event by removing the corresponding calendar entry. A confirmation pop-up is displayed before removing the entry to verify that the user indeed wants to cancel the event.
+----
+*Title:* _Send notification email when an event is cancelled_
+
+*AccTest:* 
+
+*Priority:*
+
+*Description:* A notification email is sent out to the creator of an event when that event is deleted.
+----
