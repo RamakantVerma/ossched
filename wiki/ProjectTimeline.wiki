@@ -29,7 +29,6 @@
     * Java Development Kit
     * SWF Tools and PDF Toolkit
     * Subversion client
-  * Setup a virtual Linux environment on a PC where the above-mentioned servers would be running
-  * Install Adobe Flex Builder
+  * Create project page on Google Code
   * Add project proposal to the Wiki pages
-  * Read information on _user stories_
+  * Familiarize ourselves with the concept of _user stories_
