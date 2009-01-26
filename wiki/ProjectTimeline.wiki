@@ -1,5 +1,24 @@
 #summary Timeline of the objectives for the project's 2-week iterations (scrums)
 
+===Weeks 17 & 18 (Jan 20th - Feb 2nd)===
+  * Final preparations for project presentation (Taking place on Jan 22)
+  * Continuation of ASP.NET scheduling tool (pending approval)
+  * Tasks to be completed as per Professor Muegge's request
+    * Lessons learned from delivering presentations
+    * Objectives for next 2 weeks
+    * Update Wiki
+
+===Weeks 15 & 16 (Jan 6th - Jan 19th)===
+  * Continue work on VO application for interaction with Google Calendar
+  * Begin preparations for project presentation
+  * Begin creating scheduling tool using ASP.NET
+
+===Weeks 11 & 14 (Dec 2nd - Jan 5th/09)===
+  * Exam/Study Break - Not much activity expected during this period
+
+===Weeks 9 & 10 (Nov 18th - Des 1st)===
+  * Continue work on VO application for interaction with Google Calendar
+
 ===Weeks 7 & 8 (Nov 4th - Nov 17th)===
 
   * Setup MySQL Server and Grails
