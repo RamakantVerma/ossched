@@ -1,5 +1,16 @@
 #summary Timeline of the objectives for the project's 2-week iterations (scrums)
 
+===Weeks 21 & 22 (Feb 17th - Mar 2nd)===
+  * Work towards PHP solution
+  * Research possibilities of user-friendly open-source tools to schedule events
+    * I.e., tools that will enhance the user experience
+  * Begin implementation based on findings
+
+===Weeks 19 & 20 (Feb 3rd - Feb 16th)===
+  * Discuss alternatives to ASP.NET
+    * I.e., the use of a language that is more open source oriented
+  * Discuss the desired layout and features of the application
+
 ===Weeks 17 & 18 (Jan 20th - Feb 2nd)===
   * Final preparations for project presentation (Taking place on Jan 22)
   * Continuation of ASP.NET scheduling tool (pending approval)
