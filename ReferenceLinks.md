@@ -1,0 +1,6 @@
+  * [Google Data APIs Protocol Basics](http://code.google.com/apis/gdata/basics.html)
+  * [Google Data APIs Protocol Reference](http://code.google.com/apis/gdata/reference.html)
+  * [Using the Java Client Library - Google Data APIs - Google Code](http://code.google.com/apis/gdata/client-java.html)
+  * [Common Elements: "Kinds" - Google Data APIs](http://code.google.com/apis/gdata/elements.html)
+  * [API Developer's Guide - Google Calendar](http://code.google.com/apis/calendar/developers_guide_protocol.html)
+  * [API Reference Guide - Google Calendar](http://code.google.com/apis/calendar/reference.html)
